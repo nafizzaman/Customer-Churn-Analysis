@@ -10,7 +10,6 @@ ENV/
 .ipynb_checkpoints/
 
 # Data
-#data/processed/
 *.csv
 
 # VS Code
